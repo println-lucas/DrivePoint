@@ -1,4 +1,4 @@
-1° Fase do projeto 27/03/2025:
+1° Fase do projeto 25/03/2025:
 Construi as 3 principais paginas solicitadas pelo cliente, entretanto a pagina home esta muito incompleta.
 Na segunda fase pretendo entregar a pagina home completa e Responsiva.
 o sistema de login esta funcionando corretamente, mas falta uma otimizaçção no codigo para facilitar
@@ -6,3 +6,9 @@ leituras ou correções futuras.
 Preferi fazer uma tela de css para cada pagina do html para evitar conflitos, como esse projeto não será
 em angula, tomei essa decisão para evitar conflitos nas edições.
 
+2° Fase do projeto 26/03/2025:
+Tela de home completa, só falta linkar as paginas de comparação(40% completo), de lista de favoritos(estrutura 80% completa) 
+e a pagina de sugestão de compra(ainda não iniciado). Falta trazer as imagens dos veiculos em vetores para testar a pagina do site,
+falta ajustar algumas edições de cores e box. sistema de validação de senha agora tem a função de verificar se tem caracteres especiais,
+no cadastro agora tem uma validação fiel á numeros de telefone e pagina de contato ja tem estrutura em html (ainda não editado), que mostrará ao usuario 
+o email para contato com o suporte do site, telefone de contato como também uma aba "trabalhe conosco", etc...
