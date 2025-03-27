@@ -1,0 +1,8 @@
+1° Fase do projeto 27/03/2025:
+Construi as 3 principais paginas solicitadas pelo cliente, entretanto a pagina home esta muito incompleta.
+Na segunda fase pretendo entregar a pagina home completa e Responsiva.
+o sistema de login esta funcionando corretamente, mas falta uma otimizaçção no codigo para facilitar
+leituras ou correções futuras.
+Preferi fazer uma tela de css para cada pagina do html para evitar conflitos, como esse projeto não será
+em angula, tomei essa decisão para evitar conflitos nas edições.
+
